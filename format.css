@@ -1,0 +1,33 @@
+/* <style type="text/css"> */
+    body { 
+        background-color: #e5e4e2;
+        font-family:Monospace;
+        font-size:10pt; 
+    }
+    td, th {
+        color:white;
+        background-color: black;
+    }
+    table {
+        margin-left: 10px;
+        border-spacing: 5px;
+        padding: 2px;
+        white-space: pre;
+    }
+    h2 {
+        font-family: Tahoma;
+        color: #6d7b8d;
+    }
+    h5 {
+        color: green;
+        margin-left: 10px;
+        font-family: Tahoma;
+        font-size: 8pt;
+    }
+    .started {
+        background-color: #9f0;
+    }
+    .stopped {
+        background-color: #f30;
+    }
+/* </style> */
